@@ -3,3 +3,4 @@ pandas==2.1.1
 folium==0.14.0
 streamlit-folium==0.7.0
 Pillow==10.0.0
+markdown-it-py==2.1.0
